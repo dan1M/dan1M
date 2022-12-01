@@ -64,8 +64,8 @@ This was a school project where we had to make a game of life in *python*.
 ## ✒️ Contact me
 <h3 align="center">
   
-  ![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-0961b8?logo=linkedin&logoColor=fff&style=for-the-badge)
-  ![Twtitter Badge](https://img.shields.io/badge/twitter-1da1f3?logo=twitter&logoColor=fff&style=for-the-badge)
-  ![Discord Badge](https://img.shields.io/badge/discord-5562ea?logo=discord&logoColor=fff&style=for-the-badge)
-  ![Email Badge](https://img.shields.io/badge/gmail-ea4335?logo=gmail&logoColor=fff&style=for-the-badge)
- </h3>
+  <a href="https://www.linkedin.com/in/daniel-manea-web/">![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-0961b8?logo=linkedin&logoColor=fff&style=for-the-badge)</a>
+  <a href="https://twitter.com/danyyM__">![Twitter Badge](https://img.shields.io/badge/twitter-1da1f3?logo=twitter&logoColor=fff&style=for-the-badge)</a>
+  <a href="#">![Discord Badge](https://img.shields.io/badge/discord:danyM/8757-5562ea?logo=discord&logoColor=fff&style=for-the-badge)</a>
+  <a href="#">![Email Badge](https://img.shields.io/badge/gmail:maneadaniel555@gmail.com-ea4335?logo=gmail&logoColor=fff&style=for-the-badge)</a>
+</h3>
