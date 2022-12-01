@@ -36,6 +36,15 @@ I love making great apps and programming 🤓
 
 <br>
 
+### > CMS From Scratch (e-teams) {2022}
+This was a school project where we had to make a CMS from scratch (wordpress like).<br>
+We have chosen the theme of esport, you can create and manage a website for your esport team.<br>
+*Made with PHP from scratch*
+
+<p align="center">
+	<img src="https://i.imgur.com/s9N4TOs.png" width="500">
+</p>
+
 ### > BF Card Game {2022}
 A online multiplayer card game based on Brave Frontier (a mobile game no more up).<br>
 We made our own custom cards using assets from the game and thought about game rules.<br>
