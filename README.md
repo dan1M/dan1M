@@ -32,12 +32,25 @@ I love making great apps and programming 🤓
 
 ## 🔬 Projects
 
-##### I'm currently working on a personal project from a personal idea that I want to develop (a fit rpg app)
+#### I'm currently working on a personal project from a personal idea that I want to develop (a fit rpg app)
 
-### BF Card Game
-A online multiplayer card game based on Brave Frontier (a mobile game no more up).
-We made our own custom cards and thought about game rules.
+<br>
 
+### > BF Card Game {2022}
+A online multiplayer card game based on Brave Frontier (a mobile game no more up).<br>
+We made our own custom cards using assets from the game and thought about game rules.<br>
+*Currently made with phaser3.js (this might change since it's unfinished)*
+<p align="center">
+	<img src="https://github.com/dan1M/bf-card-game/blob/main/bf-card-game-phaser3/client/src/assets/VARGAS.png" width="200">
+  <img src="https://github.com/dan1M/bf-card-game/blob/main/bf-card-game-phaser3/client/src/assets/VANILA.png" width="200">  
+</p>
+
+### > Game of life simulation {2019}
+This was a school project where we had to make a game of life in *python*.
+
+<p align="center">
+	<img src="https://i.imgur.com/09DEa1q.png" width="250">
+</p>
 
 ## ✒️ Contact me
 <h3 align="center">
