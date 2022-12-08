@@ -66,6 +66,6 @@ This was a school project where we had to make a game of life in *python*.
   
   <a href="https://www.linkedin.com/in/daniel-manea-web/">![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-0961b8?logo=linkedin&logoColor=fff&style=for-the-badge)</a>
   <a href="https://twitter.com/danyyM__">![Twitter Badge](https://img.shields.io/badge/twitter-1da1f3?logo=twitter&logoColor=fff&style=for-the-badge)</a>
-  ![Discord Badge](https://img.shields.io/badge/danyM/8757-5562ea?logo=discord&logoColor=fff&style=for-the-badge)
-  ![Email Badge](https://img.shields.io/badge/maneadaniel555@gmail.com-ea4335?logo=gmail&logoColor=fff&style=for-the-badge)
+  <a href="#danyM/8757">![Discord Badge](https://img.shields.io/badge/danyM/8757-5562ea?logo=discord&logoColor=fff&style=for-the-badge)</a>
+  <a href="#maneadaniel555@gmail.com">![Email Badge](https://img.shields.io/badge/maneadaniel555@gmail.com-ea4335?logo=gmail&logoColor=fff&style=for-the-badge)</a>
 </h3>
