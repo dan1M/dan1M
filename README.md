@@ -12,6 +12,7 @@ I love programming and making great apps  🤓
 
 #### Front-end
 ![React Badge](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=for-the-badge)
+![Next Badge](https://img.shields.io/badge/next-FFF?logo=nextdotjs&logoColor=000&style=for-the-badge)
 ![HTML Badge](https://img.shields.io/badge/HTML-d84924?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS Badge](https://img.shields.io/badge/CSS-2449d8?logo=css3&logoColor=fff&style=for-the-badge)
 ![SASS Badge](https://img.shields.io/badge/SASS-cf649a?logo=sass&logoColor=fff&style=for-the-badge)
@@ -21,6 +22,7 @@ I love programming and making great apps  🤓
 ![PHP Badge](https://img.shields.io/badge/PHP-4d598b?logo=php&logoColor=FFF&style=for-the-badge)
 ![Laravel Badge](https://img.shields.io/badge/laravel-171923?logo=laravel&logoColor=ff2d20&style=for-the-badge)
 ![Symfony Badge](https://img.shields.io/badge/symfony-000?logo=symfony&logoColor=FFF&style=for-the-badge)
+![Next Badge](https://img.shields.io/badge/next-FFF?logo=nextdotjs&logoColor=000&style=for-the-badge)
 
 
 #### Mobile
