@@ -11,8 +11,8 @@ I love programming and making great apps  🤓
 ## 🛠️ Technologies
 
 #### Front-end
-![React Badge](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=for-the-badge)
-![Next Badge](https://img.shields.io/badge/next-FFF?logo=nextdotjs&logoColor=000&style=for-the-badge)
+![React Badge](https://img.shields.io/badge/ReactJS-20232a?logo=react&logoColor=61dafb&style=for-the-badge)
+![Next Badge](https://img.shields.io/badge/nextJS-FFF?logo=nextdotjs&logoColor=000&style=for-the-badge)
 ![HTML Badge](https://img.shields.io/badge/HTML-d84924?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS Badge](https://img.shields.io/badge/CSS-2449d8?logo=css3&logoColor=fff&style=for-the-badge)
 ![SASS Badge](https://img.shields.io/badge/SASS-cf649a?logo=sass&logoColor=fff&style=for-the-badge)
