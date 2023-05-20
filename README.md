@@ -20,6 +20,8 @@ I love programming and making great apps  🤓
 #### Back-end
 ![PHP Badge](https://img.shields.io/badge/PHP-4d598b?logo=php&logoColor=FFF&style=for-the-badge)
 ![Laravel Badge](https://img.shields.io/badge/laravel-171923?logo=laravel&logoColor=ff2d20&style=for-the-badge)
+![Symfony Badge](https://img.shields.io/badge/symfony-000?logo=symfony&logoColor=FFF&style=for-the-badge)
+
 
 #### Mobile
 ![React Native Badge](https://img.shields.io/badge/React%20native-20232a?logo=react&logoColor=61dafb&style=for-the-badge)
