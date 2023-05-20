@@ -24,6 +24,8 @@ I love programming and making great apps  🤓
 ![Laravel Badge](https://img.shields.io/badge/laravel-171923?logo=laravel&logoColor=ff2d20&style=for-the-badge)
 ![Symfony Badge](https://img.shields.io/badge/symfony-000?logo=symfony&logoColor=FFF&style=for-the-badge)
 ![Next Badge](https://img.shields.io/badge/next.js-FFF?logo=nextdotjs&logoColor=000&style=for-the-badge)
+![Strapi Badge](https://img.shields.io/badge/strapi-4945ff?logo=strapi&logoColor=fff&style=for-the-badge)
+
 
 
 #### Mobile
