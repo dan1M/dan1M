@@ -17,6 +17,7 @@ I love programming and making great apps  🤓
 ![CSS Badge](https://img.shields.io/badge/CSS-2449d8?logo=css3&logoColor=fff&style=for-the-badge)
 ![SASS Badge](https://img.shields.io/badge/SASS-cf649a?logo=sass&logoColor=fff&style=for-the-badge)
 ![JS Badge](https://img.shields.io/badge/Javascript-3b3948?logo=javascript&logoColor=efd81d&style=for-the-badge)
+![TS Badge](https://img.shields.io/badge/typescript-3178c6?logo=typescript&logoColor=fff&style=for-the-badge)
 
 #### Back-end
 ![PHP Badge](https://img.shields.io/badge/PHP-4d598b?logo=php&logoColor=FFF&style=for-the-badge)
