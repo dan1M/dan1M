@@ -5,7 +5,7 @@
 
 <h4 align="center">
   
-I love making great apps and programming 🤓
+I love programming and making great apps  🤓
 </h4>
 
 ## 🛠️ Technologies
@@ -50,8 +50,8 @@ A online multiplayer card game based on Brave Frontier (a mobile game no more up
 We made our own custom cards using assets from the game and thought about game rules.<br>
 *Currently made with phaser3.js (this might change since it's unfinished)*
 <p align="center">
-	<img src="https://github.com/dan1M/bf-card-game/blob/main/bf-card-game-phaser3/client/src/assets/VARGAS.png" width="200">
-  <img src="https://github.com/dan1M/bf-card-game/blob/main/bf-card-game-phaser3/client/src/assets/VANILA.png" width="200">  
+  <img src="https://ik.imagekit.io/dan1m/bf-card-game/VARGAS_P0rSz-YaR.png?updatedAt=1673631357521" width="200">
+  <img src="https://ik.imagekit.io/dan1m/bf-card-game/LANCE_qBARVpkopG.png?updatedAt=1673631350826" width="200">  
 </p>
 
 ### > Game of life simulation {2019}
