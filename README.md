@@ -48,7 +48,7 @@ We have chosen the theme of esport, you can create and manage a website for your
 ### > BF Card Game {2022}
 A online multiplayer card game based on Brave Frontier (a mobile game no more up).<br>
 We made our own custom cards using assets from the game and thought about game rules.<br>
-*Currently made with phaser3.js (this might change since it's unfinished)*
+*Made with React to simulate card game*
 <p align="center">
   <img src="https://ik.imagekit.io/dan1m/bf-card-game/VARGAS_P0rSz-YaR.png?updatedAt=1673631357521" width="200">
   <img src="https://ik.imagekit.io/dan1m/bf-card-game/LANCE_qBARVpkopG.png?updatedAt=1673631350826" width="200">  
