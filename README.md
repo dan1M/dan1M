@@ -28,32 +28,15 @@ I love programming and making great apps  🤓
 
 #### Mobile
 ![React Native Badge](https://img.shields.io/badge/React%20native-20232a?logo=react&logoColor=61dafb&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/flutter-172c73?logo=flutter&logoColor=54c5f8&style=for-the-badge)
 
 #### Other
 ![Python Badge](https://img.shields.io/badge/python-3b78a7?logo=python&logoColor=f7d652&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Figma Badge](https://img.shields.io/badge/figma-9d56f7?logo=figma&logoColor=fff&style=for-the-badge)
-![VSCODE Badge](https://img.shields.io/badge/VSCODE-3fa4e9?logo=visualstudio&logoColor=fff&style=for-the-badge)
+![VSCODE Badge](https://img.shields.io/badge/VSCODE-3fa4e9?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
-## 🔬 Projects
 
-<br>
-
-### > BF Card Game {2022}
-A online multiplayer card game based on Brave Frontier (a mobile game no more up).<br>
-We made our own custom cards using assets from the game and thought about game rules.<br>
-*Made with React to simulate card game*
-<p align="center">
-  <img src="https://ik.imagekit.io/dan1m/bf-card-game/VARGAS_P0rSz-YaR.png?updatedAt=1673631357521" width="200">
-  <img src="https://ik.imagekit.io/dan1m/bf-card-game/LANCE_qBARVpkopG.png?updatedAt=1673631350826" width="200">  
-</p>
-
-### > Game of life simulation {2019}
-This was a school project where we had to make a game of life in *python*.
-
-<p align="center">
-	<img src="https://i.imgur.com/09DEa1q.png" width="250">
-</p>
 
 ## ✒️ Contact me
 <h3 align="center">
